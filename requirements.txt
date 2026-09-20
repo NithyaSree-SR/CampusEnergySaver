@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 streamlit
 langchain
 langchain-community
@@ -7,14 +6,4 @@ langchain-chroma
 chromadb
 sentence-transformers
 langchain-huggingface
-=======
-streamlit
-langchain
-langchain-community
-langchain-text-splitters
-langchain-chroma
-chromadb
-sentence-transformers
-langchain-huggingface
->>>>>>> a11ca4af62bd57625a554b4b60f23b3f9379e30b
 altair
