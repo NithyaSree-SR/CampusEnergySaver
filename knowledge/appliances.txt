@@ -1,0 +1,32 @@
+FAN ENERGY SAVING GUIDELINES
+
+Fans consume electricity while operating and should be used according to actual room requirements.
+
+Energy-saving practices for fans:
+- Switch off fans when a room is unoccupied.
+- Avoid running unnecessary fans when only part of a room is occupied.
+- Use the number of fans required for the actual occupancy and activity.
+- Fans should be used together with air conditioning only when appropriate for comfort and energy efficiency.
+- Regular maintenance can help fans operate efficiently.
+
+Campus fan usage:
+- In classrooms and laboratories, unnecessary fans should be switched off when the room is empty.
+- When occupancy is low, unnecessary fans can be switched off while maintaining adequate comfort for occupants.
+- The system should recommend actions rather than automatically controlling fans.
+
+
+PROJECTOR ENERGY SAVING GUIDELINES
+
+Projectors consume electricity while operating and may waste energy when left running unnecessarily.
+
+Energy-saving practices for projectors:
+- Switch off the projector when it is not required.
+- Avoid leaving the projector running during long breaks.
+- Switch off the projector after the end of a class or presentation.
+- Use the projector only when required for teaching or presentations.
+- Allow the projector to cool down according to the manufacturer's requirements before disconnecting power.
+
+Campus projector usage:
+- Projectors in classrooms should not remain powered on when no presentation or teaching activity is taking place.
+- The system can identify a projector running without an active class or presentation as potential energy wastage.
+- The system should recommend switching off the projector rather than automatically controlling it.
