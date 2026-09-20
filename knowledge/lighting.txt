@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 LIGHTING ENERGY SAVING GUIDELINES
 
 Lighting is an important part of energy consumption in classrooms and laboratories.
@@ -16,22 +15,3 @@ Campus lighting:
 - Empty classrooms and laboratories should not have unnecessary lights running for long periods.
 - When occupancy is low, unnecessary lighting can be switched off while maintaining adequate lighting for the people using the room.
 - Energy-saving estimates are approximate and depend on the type and power rating of the lighting equipment.
-=======
-LIGHTING ENERGY SAVING GUIDELINES
-
-Lighting is an important part of energy consumption in classrooms and laboratories.
-
-Energy-saving practices for lighting:
-- Switch off lights when a room is unoccupied.
-- Switch off unnecessary lights when sufficient natural light is available.
-- Avoid keeping all lights switched on when only part of the room is occupied.
-- Use energy-efficient lighting where possible.
-- Match the number of lights in use with the actual requirement of the room.
-- Regularly check lighting systems for unnecessary operation.
-- Lighting recommendations should consider visibility, safety and the activities being performed.
-
-Campus lighting:
-- Empty classrooms and laboratories should not have unnecessary lights running for long periods.
-- When occupancy is low, unnecessary lighting can be switched off while maintaining adequate lighting for the people using the room.
-- Energy-saving estimates are approximate and depend on the type and power rating of the lighting equipment.
->>>>>>> a11ca4af62bd57625a554b4b60f23b3f9379e30b

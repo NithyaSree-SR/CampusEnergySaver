@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 AIR CONDITIONER ENERGY SAVING GUIDELINES
 
 Air conditioners can consume significant electricity, especially when used for long periods.
@@ -16,22 +15,3 @@ Energy-saving practices for air conditioners:
 Safety and comfort:
 - Energy-saving recommendations should not compromise health, safety or required indoor comfort.
 - The system should recommend actions rather than automatically changing AC settings.
-=======
-AIR CONDITIONER ENERGY SAVING GUIDELINES
-
-Air conditioners can consume significant electricity, especially when used for long periods.
-
-Energy-saving practices for air conditioners:
-- Avoid unnecessarily low temperature settings.
-- Use a reasonable temperature setting while maintaining occupant comfort.
-- Turn off air conditioners when a room is unoccupied for an extended period.
-- Avoid running air conditioners in empty classrooms or laboratories.
-- Keep doors and windows closed while air conditioning is operating.
-- Regular maintenance and clean filters can help maintain efficient operation.
-- Use air conditioning according to actual occupancy and room requirements.
-- Energy savings depend on the AC model, capacity, temperature, operating duration and room conditions.
-
-Safety and comfort:
-- Energy-saving recommendations should not compromise health, safety or required indoor comfort.
-- The system should recommend actions rather than automatically changing AC settings.
->>>>>>> a11ca4af62bd57625a554b4b60f23b3f9379e30b

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ENERGY SAVING GUIDELINES
 
 Energy conservation means reducing unnecessary energy consumption while maintaining required comfort, safety and productivity.
@@ -18,24 +17,3 @@ Campus energy management:
 - Equipment should be switched off when a room is empty for an extended period.
 - Energy-saving recommendations should consider occupancy, duration of use and required comfort.
 - Energy consumption estimates are approximate and may vary depending on equipment specifications, electricity tariffs and actual usage.
-=======
-ENERGY SAVING GUIDELINES
-
-Energy conservation means reducing unnecessary energy consumption while maintaining required comfort, safety and productivity.
-
-General energy saving practices:
-- Switch off lights when a room is unoccupied.
-- Switch off computers and monitors when they are not required.
-- Avoid running electrical equipment unnecessarily.
-- Use energy-efficient equipment where possible.
-- Match energy usage with actual room occupancy and requirements.
-- Regularly monitor energy consumption to identify waste.
-- Avoid keeping multiple appliances running when they are not needed.
-- Energy-saving decisions should not compromise safety or necessary working conditions.
-
-Campus energy management:
-- Classrooms and laboratories should avoid unnecessary operation of lights, computers and air conditioners.
-- Equipment should be switched off when a room is empty for an extended period.
-- Energy-saving recommendations should consider occupancy, duration of use and required comfort.
-- Energy consumption estimates are approximate and may vary depending on equipment specifications, electricity tariffs and actual usage.
->>>>>>> a11ca4af62bd57625a554b4b60f23b3f9379e30b

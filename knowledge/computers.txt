@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 COMPUTER AND MONITOR ENERGY SAVING GUIDELINES
 
 Computers and monitors can consume unnecessary electricity when they remain powered on without being used.
@@ -17,23 +16,3 @@ Campus computer laboratory:
 - Unused computers can be recommended for shutdown after checking that they are not required for ongoing work.
 - The system should recommend actions rather than automatically shutting down computers.
 - Energy-saving estimates are approximate and depend on computer specifications, power consumption and duration of use.
-=======
-COMPUTER AND MONITOR ENERGY SAVING GUIDELINES
-
-Computers and monitors can consume unnecessary electricity when they remain powered on without being used.
-
-Energy-saving practices for computers:
-- Switch off computers when they are not required for an extended period.
-- Avoid leaving computers running when a laboratory or classroom is unoccupied.
-- Switch off or put monitors into an appropriate low-power state when not needed.
-- Shut down computers after the end of laboratory sessions when they will not be used again.
-- Avoid keeping unnecessary computers powered on when only a small number are required.
-- Use the number of computers appropriate for the actual number of users.
-- Energy-saving decisions should consider the required tasks and working conditions.
-
-Campus computer laboratory:
-- If many computers are running while only a few students are present, the system can identify this as potential energy wastage.
-- Unused computers can be recommended for shutdown after checking that they are not required for ongoing work.
-- The system should recommend actions rather than automatically shutting down computers.
-- Energy-saving estimates are approximate and depend on computer specifications, power consumption and duration of use.
->>>>>>> a11ca4af62bd57625a554b4b60f23b3f9379e30b

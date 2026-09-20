@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 venv/
 __pycache__/
 *.pyc
-=======
-venv/
-__pycache__/
-*.pyc
->>>>>>> a11ca4af62bd57625a554b4b60f23b3f9379e30b
 chroma_db/
